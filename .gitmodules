@@ -1,0 +1,3 @@
+[submodule "modules/Python_0_Starting"]
+	path = modules/Python_0_Starting
+	url = git@github.com:ArthurSobreira/Python_0_Starting.git
